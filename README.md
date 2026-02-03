@@ -11,5 +11,7 @@
 
 ### GitHub Stats 📈
 
-![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreasivan636&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasivan636&layout=compact&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreasivan636&show_icons=true&theme=tokyonight&hide_border=true" alt="Andreas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasivan636&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
