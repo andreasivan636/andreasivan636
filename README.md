@@ -9,9 +9,5 @@
 **Development Tools & Software**
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,vercel,xampp,mysql,figma,ai)](https://skillicons.dev)
 
-### GitHub Stats 📈
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreasivan636&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasivan636&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
-</p>
+### GitHub Streak 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreasivan636&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
