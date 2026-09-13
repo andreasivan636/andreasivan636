@@ -21,13 +21,4 @@
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,vercel,xampp,mysql,figma,ai)](https://skillicons.dev)
 
 ---
-### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andreasivan636&bg_color=1a1b27&color=7aa2f7&line=3B82F6&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🐍 My Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasivan636/andreasivan636/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andreasivan636/andreasivan636/output/github-contribution-grid-snake.svg">
-</picture>
