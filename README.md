@@ -1,24 +1,46 @@
-# Hi, I'm Andreas Ivan!
+### Hi, I'm Andreas Ivan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&width=435&lines=Creative+Developer;Graphic+Designer;Sistekin+Student;Tech+Enthusiast)](https://git.io/typing-svg)
+**Software Engineer** | Information Systems & Technology Undergraduate at Universitas 17 Agustus 1945 Surabaya.
 
-### 👨‍💻 About Me
-
-- 🎓 Information Systems & Technology student at **Universitas 17 Agustus 1945 Surabaya**.
-- 💼 Head of Public Relations Division at **HIMASISTA** & **Google Student Ambassador Candidate 2026**.
-- 🚀 Currently building **Ascendia Creative** (an AI-based SaaS platform) and modern web interfaces.
-- 💻 Focusing on high-end web development with **Next.js, Tailwind CSS, and Framer Motion**.
-- 🎨 Bridging the gap between design and code to create immersive digital experiences.
+I engineer end-to-end digital products—bridging clean frontend architecture with robust backend systems, cloud deployment, and local AI integration.
 
 ---
 
-### Tech Stack & Tools
-
-**Programming & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,prisma,postgres,py,html,css)](https://skillicons.dev)
-
-**Development Tools & Software**
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,vercel,xampp,mysql,figma,ai)](https://skillicons.dev)
+### 🚀 Highlighted Engineering Work
+- **EduTrack** — Automated school accreditation management platform built with **React, Vite, Tailwind CSS, Go Fiber, and Supabase**.
+- **SISI (Sistem AI)** — Department-tailored local AI voice & chat assistant powered by **Ollama, Python, Next.js, and Speech Synthesis** running on an Ubuntu server.
+- **Kosesurabaya** — Student boarding house discovery web application deployed and managed on a Linux VPS.
+- **Civic Report System** — Full-stack CRUD reporting platform with role-based access control.
 
 ---
 
+### 🏆 Leadership & Recognition
+- **Google Student Ambassador (GSA)** — Driving campus developer adoption and tech community initiatives.
+- **Best Digital Product Winner** — National Competition *Exploraition* (2026).
+- **Student Workshop Instructor** — Taught Object-Oriented Programming (OOP) in Python for junior cohorts.
+- **Public Relations (Humas) Division** — HIMASISTA Untag Surabaya.
+
+---
+
+### 🛠️ Tech Stack & Infrastructure
+
+**Languages & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,go,nextjs,react,tailwind,flask" />
+  </a>
+</p>
+
+**Backend, Database & Cloud Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,linux,ubuntu,vercel,git,github,vscode" />
+  </a>
+</p>
+
+**UI/UX & Prototyping**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
